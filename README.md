@@ -26,11 +26,5 @@ A simple and responsive weather website that allows users to search for a locati
 - Implement error handling for invalid inputs.
 - Display more detailed data like humidity, wind speed, etc.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 Feel free to contribute and improve this project!
 
